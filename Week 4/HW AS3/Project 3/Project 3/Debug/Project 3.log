@@ -1,0 +1,27 @@
+﻿Build started 2/18/2013 12:33:17 PM.
+     1>Project "C:\Users\Murphy\Desktop\C++\Week 4\HW AS3\Project 3\Project 3\Project 3.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Project 3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CoinChanger.cpp main.cpp
+         main.cpp
+         CoinChanger.cpp
+     1>c:\users\murphy\desktop\c++\week 4\hw as3\project 3\project 3\coinchanger.cpp(59): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\murphy\desktop\c++\week 4\hw as3\project 3\project 3\coinchanger.cpp(60): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\murphy\desktop\c++\week 4\hw as3\project 3\project 3\coinchanger.cpp(61): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\murphy\desktop\c++\week 4\hw as3\project 3\project 3\coinchanger.cpp(63): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\murphy\desktop\c++\week 4\hw as3\project 3\project 3\coinchanger.cpp(65): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Murphy\Desktop\C++\Week 4\HW AS3\Project 3\Debug\Project 3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Murphy\Desktop\C++\Week 4\HW AS3\Project 3\Debug\Project 3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Murphy\Desktop\C++\Week 4\HW AS3\Project 3\Debug\Project 3.lib" /MACHINE:X86 Debug\CoinChanger.obj
+         Debug\coins.obj
+         Debug\main.obj
+         Project 3.vcxproj -> C:\Users\Murphy\Desktop\C++\Week 4\HW AS3\Project 3\Debug\Project 3.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Project 3.unsuccessfulbuild".
+         Touching "Debug\Project 3.lastbuildstate".
+     1>Done Building Project "C:\Users\Murphy\Desktop\C++\Week 4\HW AS3\Project 3\Project 3\Project 3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.62

@@ -1,0 +1,17 @@
+﻿  main.cpp
+  coins.cpp
+  CoinChanger.cpp
+c:\users\murph_000\onedrive\school\c++\project 3\project 3\coinchanger.cpp(39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\murph_000\onedrive\school\c++\project 3\project 3\coinchanger.cpp(42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\murph_000\onedrive\school\c++\project 3\project 3\coinchanger.cpp(45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\murph_000\onedrive\school\c++\project 3\project 3\coinchanger.cpp(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\murph_000\onedrive\school\c++\project 3\project 3\coinchanger.cpp(51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\murph_000\onedrive\school\c++\project 3\project 3\coinchanger.cpp(76): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\murph_000\onedrive\school\c++\project 3\project 3\coinchanger.cpp(77): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\murph_000\onedrive\school\c++\project 3\project 3\coinchanger.cpp(78): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\murph_000\onedrive\school\c++\project 3\project 3\coinchanger.cpp(80): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\murph_000\onedrive\school\c++\project 3\project 3\coinchanger.cpp(82): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Running Code Analysis for C/C++...
+  Generating Code...
+  Project 3.vcxproj -> C:\Users\Murph_000\OneDrive\School\C++\Project 3\Debug\Project 3.exe
+c:\users\murph_000\onedrive\school\c++\project 3\project 3\main.cpp(37): warning C6031: Return value ignored: 'getchar'.

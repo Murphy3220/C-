@@ -1,0 +1,16 @@
+﻿Build started 3/11/2013 7:06:52 PM.
+     1>Project "C:\Users\dana_swift\Documents\Visual Studio 2010\Projects\Session 8\Pointers\Pointers\Pointers.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\dana_swift\Documents\Visual Studio 2010\Projects\Session 8\Pointers\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Pointers.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\dana_swift\documents\visual studio 2010\projects\session 8\pointers\pointers\main.c(3): error C2061: syntax error : identifier 'namespace'
+     1>c:\users\dana_swift\documents\visual studio 2010\projects\session 8\pointers\pointers\main.c(3): error C2059: syntax error : ';'
+     1>Done Building Project "C:\Users\dana_swift\Documents\Visual Studio 2010\Projects\Session 8\Pointers\Pointers\Pointers.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.63
